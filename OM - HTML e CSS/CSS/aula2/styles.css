@@ -1,0 +1,59 @@
+/* seletor geral */
+* {
+    margin: 0px;
+    padding: 0px;
+    /* font-size: 50px;
+    margin-left: 30px; */
+}
+div {
+    color: initial;
+}
+/* seletores de tags */
+/* p {
+    color: red;
+} */
+
+/* h1 {
+    color: red;
+}
+
+body div section p, h1 {
+    color: darkblue;
+} */
+
+/* seletor de classes */
+/* .vermelho {
+    color: red;
+} */
+
+/* div.conteudo-principal h2.heading {
+    font-style: italic;
+    color: red;
+    color: initial;
+} */
+
+/* .pai > .filha > span > .filha {
+    color: red;
+} */
+
+/* .pai h1+p {
+    color: red;
+} */
+/* .pai p+h1 {
+    color: blue;
+} */
+/* .pai h1~p {
+    color: blue;
+} */
+
+/* .pai .um+.dois {
+    color: red;
+} */
+[atributo$="c"] {
+    color: red;
+}
+
+[checked] {
+    width: 60px;
+    height: 60px;
+}

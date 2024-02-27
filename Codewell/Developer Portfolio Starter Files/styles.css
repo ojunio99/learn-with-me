@@ -1,0 +1,227 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   font-size: 62.5%;
+}
+
+body {
+    color: #fff;
+}
+
+.black-background {
+    background-color: #000;
+}
+
+.margin {
+    margin: 0 40em;
+}
+
+.gray-background {
+    background-color: rgb(63, 63, 68);
+}
+
+.menu {
+    width: 100%;
+    height: 20vh;
+    background-color: #000;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.menu .name {
+    width: 33.33%;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+    font-size: 4rem;
+}
+
+.menu .menu-content{
+    width: 33.33%;
+    font-size: 6rem;
+
+    color: inherit;
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu .menu-content a{
+    color: #9c9a9a;
+    text-decoration: none;
+}
+
+.menu .menu-content a:hover{
+    color: #fff;
+}
+
+.menu .menu-button {
+    width: 33.33%;
+    display: flex;
+    justify-content: end;
+}
+
+.menu .menu-button .button-style{
+    border: none;
+    width: 200px;
+    height: 70px;
+    background-color: #ffee00;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2.8rem;
+}
+
+.menu .menu-button .button-style:hover{
+    background-color: #d8cb0e;
+}
+
+.menu .menu-button .button-style:active{
+    background-color: #beb313;
+}
+
+.description {
+    width: 100%;
+    background-color: #000;
+}
+
+.description h1 {
+    font-size: 10.3rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+    max-width: 65%;
+}
+
+.description p {
+    padding-top: 20px;
+    max-width: 65%;
+    font-size: 2.7rem;
+}
+
+.logos {
+    width: 100%;
+    padding: 90px 0px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #000;
+}
+
+.logos .style-logos img {
+    height: 40px;
+}
+
+.projects {
+    background-color: black;
+}
+
+.images {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.images img{
+    width: 45%;
+}
+
+.projects .text {
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.projects .text div{
+    width: 45%;
+}
+
+.projects .text h2{
+    font-size: 7rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+}
+
+.projects .text p{
+    padding: 20px 0;
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+
+.awards {
+    display: flex;
+    justify-content: space-between;
+}
+
+.awards div {
+    padding: 20px 0;
+    width: 45%;
+    height: 500px;
+}
+
+.awards div h2{
+    font-size: 6rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+}
+
+.awards div p{
+    padding: 20px 0;
+    font-size: 2.2rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.chats {
+    padding: 60px 0;
+    width: 45%;
+    height: auto;
+    background-color: #000;
+} 
+
+.chats h2{
+    padding: 5px 0;
+    font-size: 4rem;
+    font-weight: normal;
+}
+
+.chats p{
+    padding: 15px 0;
+    font-size: 2.2rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bottom-button {
+    border: none;
+    width: 200px;
+    height: 70px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2.8rem;
+    background-color: #ffee00;
+}
+
+.bottom-button:hover{
+    background-color: #d8cb0e;
+}
+
+.bottom-button:active{
+    background-color: #beb313;
+}
+
+footer {
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+footer .name-footer h3{
+    font-size: 3rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+}
+
+footer .social a{
+    padding: 0 7px;
+}
+
+footer .social img:hover{
+    border-radius: 50%;
+    background-color: rgba(255, 252, 252, 0.589);
+}

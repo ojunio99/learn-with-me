@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formularios</title>
+    <style>
+        #nome, #sobrenome {
+            display: block;
+        }
+        label {
+            cursor: pointer;
+        }
+    </style>
+</head>
+
+<body>
+    <form action="#" method="get" target="_blank" autocomplete="off">
+        <p>O Meu Formulario</p>
+        <p>
+            <label for="nome">Nome:</label>
+            <input type="text" id="nome" name="nome" placeholder="Seu nome" required>
+        </p>
+        <p>
+            <label for="sobrenome">Sobrenome:</label>
+            <input type="text" id="sobrenome" name="sobrenome" placeholder="Seu sobrenome" required>
+        </p>
+        <p>Linguagens:</p>
+        <p>
+            <label for="devj">Python:</label>
+            <input type="checkbox" id="dev" nome="devj" value="true">
+        </p>
+        
+        <p>
+            <label for="devp">Java:</label>
+            <input type="checkbox" id="dev" nome="devp" value="true">
+        </p>
+        <p>
+            <label for="devs">C, C++, C#:</label>
+            <input type="checkbox" id="dev" nome="devs" value="true">
+        </p>
+        <p>
+            Genero:<br>
+            <label for="masculino">Masculino:</label>
+            <input type="radio" name="genero" id="genero"><br>
+            <label for="frminino">Feminino:</label>
+            <input type="radio" name="genero" id="genero"><br>
+            <label for="outro">Outro:</label>
+            <input type="radio" name="genero" id="genero">
+        </p>
+        <p>
+            <label for="data">Nascimento:</label>
+            <input type="datetime-local" name="data" id="data" value="2020-12-12T20:00">
+        </p>
+        <p>
+            <label for="tempo">Tempo:</label>
+            <input type="time" name="data" id="tempo" value="20:00:00.000">
+        </p>
+        <p>
+            <label for="cor">Cor:</label>
+            <input type="color" name="cor" id="cor" value="#5900b3">
+        </p>
+        <p>
+            <label for="email">Email:</label>
+            <input type="email" name="email" id="email" placeholder="exemplo@org.com" required>
+        </p>
+        <p>
+            <label for="files">Foto:</label>
+            <input type="file" name="files" id="files" accept=".png">
+        </p>
+        <p>
+            <label for="numero">Número:</label>
+            <input type="number" name="numero" id="numero" placeholder="Digite um número" min="10" max="99" step="10">
+        </p>
+        <p>
+            <label for="senha">Senha:</label>
+            <input type="password" name="senha" id="senha" placeholder="Digite sua senha" required>
+        </p>
+        <p>
+            <label for="range">Range:</label>
+            <input type="range" name="range" id="range" min="0" max="10" step="2">
+        </p>
+        <p>
+            <label for="url">URL:</label>
+            <input type="url" name="url" id="url">
+        </p>
+        <p>
+            <label for="search">Busca:</label>
+            <input type="search" name="search" id="search">
+        </p>
+        <p>
+            <label for="select">Selecione uma opção</label>
+            <select name="select" id="select">
+                <option value="valor 1">valor 1</option>
+                <option value="valor 2" selected>valor 2</option>
+                <option value="valor 3">valor 3</option>
+                <option value="valor 4">valor 4</option>
+            </select>
+        </p>
+        <p>
+            <label for="texarea">Area de texto:</label>
+            <textarea name="textarea" id="textarea" cols="30" rows="10"></textarea>
+        </p>
+        <p>
+            <button type="submit">Enviar</button>
+            <button type="reset">Reset</button>
+        </p>
+    </form>
+</body>
+
+</html>
