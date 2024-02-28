@@ -1,21 +1,19 @@
-# HTML5  e CSS3
+# HTML5  e CSS3 ALL IN PORTUGUESE
 
-Descrição:
-Bem-vindo ao repositório "HTML5 & CSS3"! Aqui, você encontrará o registro detalhado e o acompanhamento do meu aprendizado contínuo em HTML5 e CSS3. Este repositório serve como um diário de bordo das minhas conquistas, projetos e avanços na criação de páginas web modernas e estilizadas.
+Description:
+Welcome to the "HTML5 & CSS3" repository! Here, you will find detailed records and tracking of my ongoing learning in HTML5 and CSS3. This repository serves as a logbook of my achievements, projects, and advancements in creating modern and stylized web pages.
 
-Objetivo:
-O objetivo deste repositório é compartilhar meu progresso no desenvolvimento web utilizando as mais recentes tecnologias HTML5 e CSS3. Ao longo do tempo, este espaço se tornará um registro completo do meu crescimento como desenvolvedor front-end, demonstrando minhas habilidades em codificação, design responsivo e usabilidade.
+Objective:
+The objective of this repository is to share my progress in web development using the latest HTML5 and CSS3 technologies. Over time, this space will become a comprehensive record of my growth as a front-end developer, showcasing my skills in coding, responsive design, and usability.
 
-O que você encontrará aqui:
+What you will find here:
 
-- Projetos: Cada projeto representa um marco no meu aprendizado. Você pode explorar diferentes páginas web que criei, desde layouts simples até projetos mais complexos, incorporando diversas técnicas em HTML5 e CSS3.
+Projects: Each project represents a milestone in my learning journey. You can explore different web pages I have created, ranging from simple layouts to more complex projects, incorporating various techniques in HTML5 and CSS3.
 
-- Snippets: Encontre trechos de código reutilizáveis e exemplos práticos que demonstram conceitos específicos de HTML5 e CSS3. Esses snippets são úteis para aprender e implementar em seus próprios projetos.
+Snippets: Find reusable code snippets and practical examples demonstrating specific HTML5 and CSS3 concepts. These snippets are useful for learning and implementing in your own projects.
 
-- Recursos: Compartilho aqui links para artigos, tutoriais e recursos relevantes que me ajudaram em minha jornada de aprendizado. Esses recursos podem ser úteis para outros desenvolvedores que também desejam aprimorar suas habilidades em front-end.
+Resources: I share links to articles, tutorials, and relevant resources that have helped me in my learning journey. These resources may be useful for other developers who also wish to enhance their front-end skills.
 
-Contribuições:
-Sinta-se à vontade para revisar meus projetos, fornecer feedback ou fazer sugestões construtivas. Estou sempre aberto a melhorias e aprendizado colaborativo. Se você encontrar erros ou tiver ideias para aprimorar algum aspecto do código, fique à vontade para abrir um "issue" ou enviar um "pull request".
 
-Aviso Legal:
-Lembrando que este repositório foi criado com o propósito educacional e de desenvolvimento pessoal. Os projetos e recursos aqui presentes podem ser utilizados livremente, desde que respeitadas as licenças dos componentes e recursos utilizados.
+Legal Disclaimer:
+Please note that this repository was created for educational and personal development purposes. The projects and resources contained herein may be freely used, provided that the licenses of the components and resources used are respected.
